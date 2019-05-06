@@ -61,3 +61,5 @@ typings/
 .next 
 
 config.json
+credentials.json
+token.json
